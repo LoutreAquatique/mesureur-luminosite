@@ -1,4 +1,4 @@
-
+Ce projet est un projet censé etre utilisé avec une carte Micro:bit Makecode. Ceci à été codé avec Makecode for Micro:bit.
 > Ouvrir cette page à [https://loutreaquatique.github.io/mesureur-luminosite/](https://loutreaquatique.github.io/mesureur-luminosite/)
 
 ## Utiliser comme extension
@@ -10,7 +10,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * cliquez sur **Extensions** dans le menu engrenage
 * recherchez **https://github.com/loutreaquatique/mesureur-luminosite** et importez
 
-## Éditer ce projet
+### Éditer ce projet
 
 Éditer ce dépôt dans MakeCode.
 
